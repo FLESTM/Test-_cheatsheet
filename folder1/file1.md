@@ -1,8 +1,8 @@
 # Title
 ## subtitle
 hjhkjhjkh
-we need to search for `if`
-```c
+we need to search for 
+```cc
 static void Init_Debug( void )
 {
 #if (CFG_DEBUGGER_SUPPORTED == 1)
